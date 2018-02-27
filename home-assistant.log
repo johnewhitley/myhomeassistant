@@ -1,0 +1,2 @@
+2018-02-27 07:48:07 WARNING (Thread-8) [netdisco.ssdp] Error fetching description at http://192.168.1.1:8200/rootDesc.xml
+2018-02-27 07:48:11 WARNING (Thread-5) [plexapi] BadRequest (401) unauthorized http://192.168.1.2:32400/; <html><head><script>window.location = window.location.href.match(/(^.+\/)[^\/]*$/)[1] + 'web/index.html';</script><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>
